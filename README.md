@@ -1,5 +1,7 @@
 # react-compose
 
+Composes multiple render prop components
+
 ## Getting Started
 
 ### Installation
