@@ -2,7 +2,7 @@
   "name": "react-compose",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "files": ["dist/**"],
   "scripts": {
     "build": "tsup src/index.tsx --format esm,cjs --dts --external react",
